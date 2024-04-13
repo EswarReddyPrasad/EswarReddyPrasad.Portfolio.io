@@ -15,8 +15,7 @@ twitter_username: your-twitter-handle
 github_username:  eswarreddy
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
